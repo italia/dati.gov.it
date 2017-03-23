@@ -23,7 +23,7 @@ composto inoltre da una serie di harvester:
 - [Dkatap harvester](github.com/FormezPA/dkan_harvest_dcatap)
 
 che vanno a importare i metadati dai vari portali open data delle pubbliche amministrazioni locali e nazionali. I dati vengono
-esposti anche attraverso una serie di servizi web basate sullo standard [CKAN](http://docs.ckan.org/en/latest/api/)
+esposti anche attraverso una serie di servizi web basati sullo standard [CKAN](http://docs.ckan.org/en/latest/api/)
 
 Dati.gov.it evolverá da catalogo dei dati aperti a piattaforma di strumenti per l'esposizione dei dati pubblici. In questo contesto
 alcuni dei punti che crediamo possano essere punto di rifermento e guida al progetto sono:
