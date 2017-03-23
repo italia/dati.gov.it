@@ -16,7 +16,7 @@ L'intezione e' che qui troverete la descrizione dello stato del progetto http://
 - allo [stato di avanzamento](https://github.com/italia/dati.gov.it/projects)
 - alle [issues](https://github.com/italia/dati.gov.it/issues).
 
-Attualmente dati.gov.it si basa su un modulo di Drupal chiamato [dkan]https://github.com/FormezPA/dkan  Il sistema e'
+Attualmente dati.gov.it si basa su un modulo di Drupal chiamato [dkan](https://github.com/FormezPA/dkan)  Il sistema e'
 composto inoltre da una serie di harvester:
 
 - [Ckan harvester](https://github.com/FormezPA/dkan_harvest_ckan)
