@@ -7,7 +7,7 @@ https://developers.italia.it/it/datigov/
 Questa repository e' il punto di incontro e condivisione di tutti gli sviluppatori e NON che vorranno contribuire
 all'evoluzione del portale http://dati.gov.it.
 
-Per il momento contiene esclusicamente questo file di spiegazioni  che evolverá anche
+Per il momento contiene esclusivamente questo file di spiegazioni che evolverá anche
 grazie al vostro contributo. Il motivo di questa scelta e' di aprire al contributo da parte di tutti voi fin
 dalla partenza del processo di sviluppo.
 
