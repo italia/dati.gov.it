@@ -32,5 +32,5 @@ alcuni dei punti che crediamo possano essere punto di rifermento e guida al prog
 - Esporre API pubbliche ben documentate
 - Creare una dashboard del cittadino e delle imprese
 
-Una prima bozza documentativa che descrive la metodologia di sviluppo agile e aperto e di architettura si puó trovare al
+Una prima bozza documentativa che descrive la metodologia di sviluppo agile e di architettura si puó trovare al
 seguente [link](https://docs.google.com/document/d/1dCfbpwmkl-U2kreykRY8YXJct6GOe-r_3qjism5wI2Y/edit)
