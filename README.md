@@ -13,19 +13,19 @@ dalla partenza del processo di sviluppo.
 
 L'intezione e' che qui troverete la descrizione dello stato del progetto http://dati.gov.it:
 - con [link](https://github.com/FormezPA/dkan) al codice sorgente
-- [allo stato di avanzamento](https://github.com/italia/dati.gov.it/projects)
+- allo [stato di avanzamento](https://github.com/italia/dati.gov.it/projects)
 - alle [issues](https://github.com/italia/dati.gov.it/issues).
 
-Attualmente dati.gov.it si basa su un modulo di Drupal chiamato [Dkan]https://github.com/FormezPA/dkan.  Il sistema e'
+Attualmente dati.gov.it si basa su un modulo di Drupal chiamato [dkan]https://github.com/FormezPA/dkan  Il sistema e'
 composto inoltre da una serie di harvester:
 
 - [Ckan harvester](https://github.com/FormezPA/dkan_harvest_ckan)
 - [Dkatap harvester](github.com/FormezPA/dkan_harvest_dcatap)
 
 che vanno a importare i metadati dai vari portali open data delle pubbliche amministrazioni locali e nazionali. I dati vengono
-esposti anche attraverso una serie di servizi web basate sullo standard CKAN.
+esposti anche attraverso una serie di servizi web basate sullo standard [CKAN](http://docs.ckan.org/en/latest/api/)
 
-Dati.gov.it evolverá da catalogo a piattaforma di strumenti per l'esposizione dei dati pubblici. In questo contesto
+Dati.gov.it evolverá da catalogo dei dati aperti a piattaforma di strumenti per l'esposizione dei dati pubblici. In questo contesto
 alcuni dei punti che crediamo possano essere punto di rifermento e guida al progetto sono:
 
 - Standardizzare i datasets di interesse nazionale seguendo ontologie predefinite ad esempio [dcat_ap_it](http://guida-pratica-dcat-ap-it.readthedocs.io/en/latest/guida.html)
