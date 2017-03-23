@@ -1,8 +1,6 @@
 # dati.gov.it
 
-Repo centrale di strutturazione del progetto.
-
-Vedi: https://developers.italia.it/it/datigov/
+https://developers.italia.it/it/datigov/
 
 Questa repository e' il punto di incontro e condivisione di tutti gli sviluppatori e NON che vorranno contribuire
 all'evoluzione del portale http://dati.gov.it.
