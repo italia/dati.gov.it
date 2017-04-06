@@ -36,6 +36,8 @@ alcuni dei punti che crediamo possano essere punto di rifermento e guida al prog
 ## DOCUMENTAZIONE & INFO
 
 Una prima bozza di documentazione che descrive la metodologia di sviluppo agile e di architettura si può trovare al
-seguente [link](https://docs.google.com/document/d/1dCfbpwmkl-U2kreykRY8YXJct6GOe-r_3qjism5wI2Y/edit)
+seguente [link.](https://docs.google.com/document/d/1dCfbpwmkl-U2kreykRY8YXJct6GOe-r_3qjism5wI2Y/edit)
+
+Le linee guida tecniche per i cataloghi dati, che includono una guida pratica al profilo di metadatazione nazionale DCAT-AP_IT utilizzato da dati.gov.it, è disponibile online al seguente [link.](http://linee-guida-cataloghi-dati-profilo-dcat-ap-it.readthedocs.io/it/latest/)
 
 Trovate maggiori informazioni riguardo a questo progetto su [developers.italia.it](https://developers.italia.it/it/datigov/)
