@@ -14,10 +14,10 @@ Qui troverete la descrizione dello stato del progetto [dati.gov.it](http://dati.
 - allo [stato di avanzamento](https://github.com/italia/dati.gov.it/projects)
 - alle [issues](https://github.com/italia/dati.gov.it/issues).
 
-Attualmente [dati.gov.it](http://dati.gov.it) si basa su un profilo di Drupal chiamato [dkan](https://github.com/FormezPA/dkan).  Il sistema include inoltre da una serie di harvester:
+Attualmente [dati.gov.it](http://dati.gov.it) si basa su un profilo di Drupal chiamato [dkan](https://github.com/FormezPA/dkan).  Il sistema include inoltre due tipi di harvester:
 
 - [Ckan harvester](https://github.com/FormezPA/dkan_harvest_ckan)
-- [DCAT-AP harvester](https://github.com/FormezPA/dkan_harvest_dcatap)
+- [data,json harvester](https://github.com/FormezPA/dkan_harvest_dcatap)
 
 che importano i metadati da vari portali open data delle pubbliche amministrazioni italiane. Per una lista completa delle fonti attualmente importate si veda [la lista delle fonti dati](http://www.dati.gov.it/admin/harvest-sources-export) (aggiornata in tempo reale).
 I dati vengono esposti anche attraverso una serie di servizi web basati sullo standard [CKAN](http://docs.ckan.org/en/latest/api/)
